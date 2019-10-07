@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohtaechia.drummachinefunk.com/sitemap.xml
